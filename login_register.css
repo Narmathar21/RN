@@ -1,0 +1,151 @@
+body
+{
+  background: url(https://wallpaperaccess.com/full/1595931.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.loginbox
+{
+  background: rgb(19, 17, 17);
+  width: 400px;
+  padding: 40px;
+  overflow: hidden;
+  margin-left: 400px;
+  margin-top: 150px;
+  box-shadow: 0px 0px 80px --7px rgb(212, 203, 203);
+  border-radius: 4%;
+}
+
+.loginbox h2
+{
+  text-transform: uppercase;
+  text-shadow: 5px 1px 2px rgb(251, 252, 252);
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.loginbox input
+{
+  width: 89%;
+  display: block;
+  padding: 15px;
+  margin-bottom: 20px;
+  outline: none;
+  border: none;
+  font-size: 16px;
+  border-radius: 20px 20px 20px 20px;
+  text-align: center;
+}
+
+.loginbtn
+{
+  color: rgb(247, 247, 247);
+  width: 50%;
+  margin-right: 500;
+  border-radius: 50px 30px 50px 30px;
+  font-size: 30px;
+  text-transform: uppercase;
+  text-shadow: 3px 0px 2px rgb(93, 196, 10);
+  box-shadow: 0px 0px 80px -7px rgb(212, 203, 203);
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
+
+  background: linear-gradient(#44609c39, #3e6e4f);
+}
+.loginbtn:hover
+{
+  background: linear-gradient(#3e6e4f, #44609c39);
+}
+
+.registerlink
+{
+  margin-left: 150px;
+}
+.registerlink span
+{
+  color: white;
+  font-size: 20px;
+}
+.registerlink a
+{
+  text-decoration: none;
+  color: greenyellow;
+  font-size: 20px;
+}
+
+.registerbox
+{
+  background: rgb(19, 17, 17);
+  width: 400px;
+  padding: 40px;
+  overflow: hidden;
+  margin-left: 400px;
+  margin-top: 100px;
+  box-shadow: 0px 0px 80px --7px rgb(212, 203, 203);
+  border-radius: 4%;
+}
+
+.registerbox h2
+{
+  text-shadow: 5px 1px 2px rgb(251, 252, 252);
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.registerbox input
+{
+  width: 89%;
+  display: block;
+  padding: 15px;
+  margin-bottom: 20px;
+  outline: none;
+  border: none;
+  font-size: 16px;
+  border-radius: 15px 15px 15px 15px;
+  text-align: center;
+}
+
+.registerbtn
+{
+  color: rgb(247, 247, 247);
+  width: 50%;
+  margin-left: auto;
+  border-radius: 50px 30px 50px 30px;
+  font-size: 30px;
+  text-transform: uppercase;
+  text-shadow: 3px 0px 2px rgb(93, 196, 10);
+  box-shadow: 0px 0px 80px -7px rgb(212, 203, 203);
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
+
+  background: linear-gradient(#44609c39, #3e6e4f);
+}
+.registerbtn:hover
+{
+  background: linear-gradient(#3e6e4f, #44609c39);
+}
+
+.loginlink
+{
+  margin-left: 150px;
+}
+.loginlink span
+{
+  color: white;
+  font-size: 20px;
+}
+.loginlink a
+{
+  text-decoration: none;
+  color: greenyellow;
+  font-size: 20px;
+}
+b{
+  color: white;
+  font-size: 20px;
+}
